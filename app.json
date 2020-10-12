@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Kleanary-Mobile-v2",
+    "slug": "Kleanary-Mobile-v2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "facebookScheme": "fb280665525755908",
+    "splash": {
+      "image": "./assets/hanger1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.znuta.kleanary",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.znuta.kleanary",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
